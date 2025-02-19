@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Gusti Adrianta, a student currently diving into the world of programming. 
+# Hello! I'm Gusti Adrian, a Amateur Programmer
+Currently student diving into the world of programming. 
 This is where I explore and share my coding projects as I learn and grow.
 
 # 💻 Tech Stack:
@@ -11,9 +11,3 @@ This is where I explore and share my coding projects as I learn and grow.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GstAdriann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=GstAdriann&icon=0&color=0)](https://visitcount.itsvg.in)
